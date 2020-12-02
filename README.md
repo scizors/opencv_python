@@ -5,3 +5,5 @@ replace path to your system path in which image files to be saved
 
 #Useage:
 press S to save the image starting from file name 1.png , 2.png , n.png
+
+Q to exit from the window
