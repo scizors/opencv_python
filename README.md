@@ -1,4 +1,4 @@
-# opencv_python sample for webcamera and save the images in the folder
+# Simple Opencv_python sample for webcamera and save the images in the folder
 
 #Edit and set the path:
 replace path to your system path in which image files to be saved 
